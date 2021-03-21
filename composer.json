@@ -1,6 +1,6 @@
 {
-    "name": "thesmsworks/smsw-php-sdk",
-    "description": "PHP SDK for the SMS Works Message API",
+    "name": "project-durham/smsw-php-sdk",
+    "description": "A fork PHP SDK for the SMS Works Message API, forked to be compatible with Laravel 8",
     "keywords": [
         "sms",
         "php",
@@ -20,7 +20,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^6.3.1|^7.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
